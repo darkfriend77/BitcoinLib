@@ -70,6 +70,7 @@ namespace BitcoinLib.RPC.Specifications
         estimatesmartfee,
         estimatesmartpriority,
         validateaddress,
+        mirroraddress,
         verifymessage,
 
         //== Wallet ==
